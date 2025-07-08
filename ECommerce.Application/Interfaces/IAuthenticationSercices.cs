@@ -6,7 +6,7 @@ namespace ECommerce.Application.Interfaces
     {
         //Login, Register, ResetPassword, ForgetPassword
         //ChangePassword
-        Task<AuthenticationResponseDTO> Login(LoginDTO data);
+        //Task<AuthenticationResponseDTO> Login(LoginDTO data);
     }
 }
 

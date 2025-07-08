@@ -5,9 +5,9 @@ namespace ECommerce.Application.Services
 {
     public class AuthenticationServices : IAuthenticationSercices
     {
-        public Task<AuthenticationResponseDTO> Login(LoginDTO data)
-        {
-            throw new NotImplementedException();
-        }
+        //public Task<AuthenticationResponseDTO> Login(LoginDTO data)
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 }
